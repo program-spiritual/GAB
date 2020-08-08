@@ -42,7 +42,13 @@
 
 ![](images/operand.png)
 
+### 汇编语言组成
 
+![](images/assembly-language.png)
+
+### x86-64 架构的寄存器
+
+![](images/x86-64-architectural-register.png)
 
 ## 代码章节
 
