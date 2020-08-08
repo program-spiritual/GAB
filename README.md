@@ -10,9 +10,9 @@
 
 ### GNU 汇编器
 
-- macos -- `inner`
+- macos -- `内置`
 
-- linux -- `inner`
+- linux -- `内置`
 
 - Windows -- [`MinGW`](https://osdn.net/projects/mingw/releases/)  or `linux vm`
 
