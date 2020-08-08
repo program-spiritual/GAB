@@ -1,6 +1,4 @@
-## doc
 
-[chinese doc](README-CN.md)
 
 # GAB
 
