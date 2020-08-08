@@ -6,14 +6,28 @@
 
 ## the basic 
 
+elements of assembly language
 
+- instruction
 
+![](./images/instruction.png)
+
+- quasiinstruction
+
+![](./images/quasiinstruction.png)
+
+- tag
+
+![](./images/tag.png)
+
+- comment
+
+![](./images/comment.png)
 
 ## doc
 
 [chinese doc](README-CN.md)
 
-[english doc](README.md)
 
 ## code chapter
 
