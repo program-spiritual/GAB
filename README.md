@@ -86,3 +86,9 @@ gcc hello.o -o hello   //链接成可执行文件
 - [function-call.c](./section1/function-call.c) 
 
 - [function-call1-craft.s](./section1/function-call1-craft.s) 
+
+- [ifstmt.s](./section1/ifstmt.s) 
+
+- [ifstmt2.s](./section1/ifstmt2.s) 
+
+- [float-demo.s](section1/float-demo.s)
