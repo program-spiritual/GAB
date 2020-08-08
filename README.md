@@ -4,32 +4,47 @@
 
 # GAB
 
-> graphical assembly basis 
+> 图解汇编基础 
 
-## the basic 
+## 基础
 
-elements of assembly language
+### GNU 汇编器
 
-- instruction
+- macos -- `inner`
+
+- linux -- `inner`
+
+- Windows -- [`MinGW`](https://osdn.net/projects/mingw/releases/)  or `linux vm`
+
+### 汇编语言的要素
+
+- 指令
 
 ![](./images/instruction.png)
 
-- quasiinstruction
+- 伪指令
 
 ![](./images/quasiinstruction.png)
 
-- tag
+- 标签
 
 ![](./images/tag.png)
 
-- comment
+- 注释
 
 ![](./images/comment.png)
 
+### 指令后缀
+
+![](./images/instruction-suffix-1.png)
+
+### 汇编指令-操作数
+
+![](images/operand.png)
 
 
 
-## code chapter
+## 代码章节
 
 ### [section1](./section1)
 
