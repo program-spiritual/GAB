@@ -1,4 +1,6 @@
+## 文档
 
+[英文文档](README.md)
 
 # GAB
 
@@ -24,9 +26,7 @@
 
 ![](./images/comment.png)
 
-## 文档
 
-[英文文档](README.md)
 
 
 ## 代码章节

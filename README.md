@@ -1,4 +1,6 @@
+## doc
 
+[chinese doc](README-CN.md)
 
 # GAB
 
@@ -24,9 +26,7 @@ elements of assembly language
 
 ![](./images/comment.png)
 
-## doc
 
-[chinese doc](README-CN.md)
 
 
 ## code chapter
