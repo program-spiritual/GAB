@@ -53,6 +53,31 @@
 
 ![](images/x86-64-architectural-register.png)
 
+### 生成汇编代码
+
+```shell script
+
+clang -S -O2 hello.c -o hello.s
+
+#或者：
+
+gcc -S -O2 hello.c -o hello.s
+
+```
+
+### 将汇编代码编译成可执行文件
+
+
+```shell script
+
+
+as hello.s -o hello.o   //用汇编器编译成目标文件
+gcc hello.o -o hello   //链接成可执行文件 
+./hello                 //运行程序
+
+```
+
+
 ## 代码章节
 
 ### [section1](./section1)
