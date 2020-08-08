@@ -6,7 +6,11 @@
 
 ## 基础
 
-### GNU 汇编器
+### 后端编译任务流程
+
+![](images/backend-task.png)
+
+### OS  GNU 汇编器
 
 - macos -- `内置`
 
@@ -32,6 +36,10 @@
 
 ![](./images/comment.png)
 
+### 汇编语言组成
+
+![](images/assembly-language.png)
+
 ### 指令后缀
 
 ![](./images/instruction-suffix-1.png)
@@ -40,9 +48,6 @@
 
 ![](images/operand.png)
 
-### 汇编语言组成
-
-![](images/assembly-language.png)
 
 ### x86-64 架构的寄存器
 
