@@ -4,6 +4,9 @@
 
 > 图解汇编基础 
 
+![](images/gab-snap.png)
+
+[在线文档](https://xiaomiwujiecao.github.io/GAB)
 
 ### 后端编译任务流程
 
